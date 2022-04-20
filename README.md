@@ -172,7 +172,6 @@ git push -u origin main
 
 ```java
 heroku create expense-tracker-mern-material
-
 ```
 
 ## Heroku MongoDB Environment Variables
